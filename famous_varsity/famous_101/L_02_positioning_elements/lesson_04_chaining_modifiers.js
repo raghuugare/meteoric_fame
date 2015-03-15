@@ -48,6 +48,7 @@ var greySurface = new Surface({
     classes: ['grey-bg']
 });
 
+
 mainContext
   .add(translateModifierOne)
   .add(rotateModifierOne)
